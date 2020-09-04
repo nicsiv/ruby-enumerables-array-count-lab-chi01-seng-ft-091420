@@ -1,5 +1,5 @@
 def count_strings(array)
- array.count do |" "|
+ array.count do |""|
    array.each?
 end
 end
